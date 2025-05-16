@@ -1,0 +1,1 @@
+A simple, single-page Power BI dashboard visualizing Superstore sales data. Features KPI cards for Sales and Profit, a Sales Trend line chart, Profit by Region bar chart, and Sales by Category pie chart. Includes interactive slicers for Year and Region. Designed for clarity and ease of use.
